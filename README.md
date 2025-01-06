@@ -70,7 +70,7 @@ test/
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DeepakStark123/unit_testing
    cd api_test_using_unit_test
    ```
 
